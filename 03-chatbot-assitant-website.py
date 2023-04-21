@@ -1,5 +1,5 @@
 import openai
-import gradio, gradio_client
+import gradio
 
 from core.config import openai_apikey
 
